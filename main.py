@@ -22,6 +22,7 @@ def contacto():
         print(nombre)
         print(telefono)
         print(email)
+        console.log()
     return 'Datos recibidos'
 
 def quienesSomos():
